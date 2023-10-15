@@ -1,0 +1,34 @@
+Name: StoryText
+Purpose: To make a story
+reason: I want to become a game dev when I grow older, so making code to help that goal while doing the final sounds like a good idea.
+want to accomplish: make a story
+target audience: Anyone who wants to read a little story
+
+Yes I use K.I.S.S.
+-Keep
+-It 
+-Simple
+-Stupid
+
+Goals
+- make a story
+
+title: almost finished(needs a pictures)
+reader: almost finished(needs story and a picture)
+
+errors so far: 
+quit funtion not working(fixed)
+name var not changing(fixed)
+Fixed just being able to hit the name button to remove the name. 
+
+
+								USER MANUAL
+-click exit to exit
+-enter you name into the box then click change name to change your name(has a name plugged in by base this step is not needed)
+-then click reader to open the page for reading!
+							     Validation testing
+Just enter different names into the bar.
+1. John
+2. Will
+everthing work well, but the program is somewhat simple. It worries me a bit when it comes to grades. (click close or exit closes the whole program)
+screenshots will be provided in the same folder as all the files.
